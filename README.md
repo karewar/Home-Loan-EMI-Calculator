@@ -27,7 +27,7 @@ Where:
    git clone https://github.com/yourusername/emi-calculator.git
    cd emi-calculator
    ```
-2. un the script:
+2. Run the script:
    ```sh
    python emi_calculator.py
    ```
